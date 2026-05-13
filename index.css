@@ -1,0 +1,49 @@
+div{
+height: 400px;
+width: 250px;
+color: hsl(0, 0, 100);
+padding-left: 30px;
+padding-right: 50px;
+padding-top: 50px;
+color: hsla(0, 0%, 100%, 0.75);
+font-size: 15px;
+font-family: "Lexend Deca", sans-serif;
+font-weight: 400;
+
+}
+.div1{
+    background-color: hsl(31, 77%, 52%);
+    display: inline-block;
+
+
+
+}
+.div2{
+    background-color:hsl(184, 100%, 22%);
+    display: inline-block;
+    
+}
+.div3{
+    background-color: hsl(179, 100%, 17%);
+    display: inline-block;
+
+}
+.main{
+    height: 600px;
+    width: 1200px;
+    background-color: hsla(0, 0%, 100%, 0.75);
+;
+    margin: auto;
+}
+button{
+    border-radius: 20px;
+}
+.button1{
+    color: hsl(31, 77%, 52%);
+}
+.button2{
+   color: hsl(184, 100%, 22%);
+}
+.button3{
+    color: hsl(179, 100%, 17%);
+}
